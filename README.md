@@ -6,6 +6,8 @@ Official write-up for a challenge in NasCon CTF '23.
 !ELF<br/><br/>
 <b>Description</b><br/>
 Someone asked me to tell them where this file is usually located. Can you find that out for me? (I need the complete path)<br/><br/>
+<b>File</b><br/>
+[random](./random)<br/><br/>
 <b>Hint</b><br/>
 Try enumerating the services in /etc and maybe you'll find magic.
 
